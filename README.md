@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Yash</h1>
 <h3 align="center">A passionate fullStack developer and ML engineer from India</h3>
