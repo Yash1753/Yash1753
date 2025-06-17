@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next and go(contradicting a little but fun🙂)**
 
-- 💬 Ask me about **backend as I more fond of it**
+- 💬 Ask me about **backend as I am more fond of it**
 
 - 📫 How to reach me **yr322005@gmail.com**
 
