@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash1753&label=Profile%20views&color=0e75b6&style=flat" alt="yash1753" /> </p>
 
-- 🔭 I’m currently working on **my own SaaS and testing it on my own will release it once**
+
 
 - 🌱 I’m currently learning **Next and go(contradicting a little but fun🙂)**
 
